@@ -62,5 +62,7 @@ module.exports = {
     "bei1 soeng1 (sad)", "nau1 (angry)", "laang zing6 (calm)" */],
     characters10: ["jin4 hau6 (then)", "zaa1 ce1 (drive a car)", "gu3 haak3 (customer)","caan teng1 (restaurant)", "tou5 ngo6 (hungry)",
     "jyu6 dou3 (to meet)", "king1 gai2 (talkS)", "jat1 ci3 (once)", "gwok3 kei4 (flag)", "laam4 (blue)", "soeng6 min6 (above)", "lap1 sing1 (stars)",
-    "zau1 (state)", "doi6 biu2 (to represent)", "zeoi3 zou2 (earliest)", "tiu4 waan2 tiu2 (stripes)", "zau6 (precisely)", "gaa1 (add)"]
+    "zau1 (state)", "doi6 biu2 (to represent)", "zeoi3 zou2 (earliest)", "tiu4 waan2 tiu2 (stripes)", "zau6 (precisely)", "gaa1 (add)",
+    "lai5 mat6 (gift)", "cin4 toi4 (front desk)", "toi (table)", "zoek6 gap (to worry)", "ji5 kap6 (as well as / and)", "ngan2 (silver)",
+    "dung6 mat6 (animal)", "sau2 sik1 (jewlery)"]
 }
